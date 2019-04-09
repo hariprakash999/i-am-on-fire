@@ -1,4 +1,4 @@
-# i-am-on-fire
+# os-lab-projects
 os lab
 There are 3 student processes and 1 teacher process. Students are supposed to do their assignments 
 and they need 3 things for that-pen, paper and question paper. The teacher has an infinite supply 
